@@ -1,5 +1,5 @@
 Оригинальный Репозиторий  
-https://www.youtube.com/watch?v=bKF8cjCxBA8  
+https://github.com/jamesmontemagno/MVVMSourceGenerators   
 
 # MVVMSourceGenerators
 
