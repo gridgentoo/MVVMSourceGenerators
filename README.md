@@ -1,5 +1,11 @@
 Оригинальный Репозиторий  
-https://github.com/jamesmontemagno/MVVMSourceGenerators   
+https://github.com/jamesmontemagno/MVVMSourceGenerators 
+
+Kubeflow для поиска кода (Go, Java, Python, JavaScript, Ruby)  
+https://github.com/gridgentoo/kubeflow_CodeSearchNet   
+
+Ghidra Software Reverse Engineering Framework   
+https://github.com/gridgentoo/ghidra   
 
 # MVVMSourceGenerators
 
